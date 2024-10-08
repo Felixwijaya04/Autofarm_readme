@@ -4,3 +4,4 @@
 <br>
 
 ## 🔥Development Process
+- **Drag and Drop** <br> Our main game mechanic is drag and drop a code block. Player drags the code block from the code list then drop it in the corresponding code slot. To make a drag and drop features, we use grid layout group to create a slots for each type of code.
