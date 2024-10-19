@@ -1,5 +1,46 @@
-## 🔴About
+### Autofarm
+
+![image](https://github.com/Felixwijaya04/Autofarm_readme/blob/main/images/Gif_Autofarm.gif)
+
+## 🔴About Game
 **Autofarm** is an educational puzzle game about learning how to arrange a pseudocode. The game is intenteded for audience who want to start their programming journey. In this game, player will plays as a last person who can save humanity from polutions by searching a single plant in the universe. The game consist of several different levels and objective with each difficulty.
+
+## 📋 Project Info
+
+<b> Developed with Unity 2022 </b>
+
+| **Role** | **Name** | **Development Time** 
+|:-|:-|:-|
+| Game Programmer | Felix Wijaya | 1 month |
+| Game Designer | Felix Wijaya | 1 week |
+| 2D Artist & Animator | Vincent Tanujaya | 1 month |
+
+<details>
+  <summary> <b>My Contribution (Game programmer)</b> </summary>
+  
+  - Core mechanics
+  - UI Navigation
+  - Cutscene 
+
+</details>
+<details>
+  <summary> <b>My Contribution (Game designer)</b> </summary>
+  
+  - Game mechanics
+  - Level design
+  - Core loop
+
+</details>
+
+## 📜 Scripts
+
+|  Script       | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| `Compiler.cs` | Responsible for checking answers by comparing it from `LevelMaker.cs` |
+| `LevelMaker.cs`  | Allowing developers to create a new level design |
+| `FunctionLogic`  | A folder containing all function identity such as `Plant.cs`, `Loop.cs` etc |
+| `UI_Manager.cs`  | Controls UI navigation |
+| `ObjectControl.cs` | Manages the logic for drag and drop the code block |
 
 <br>
 
